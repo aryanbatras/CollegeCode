@@ -1,0 +1,24 @@
+body{
+  
+}
+
+th{
+  font-family: Sans-Serif;
+  font-weight: 900;
+  letter-spacing: 4px;
+  
+  text-align: center;
+  text-transform: uppercase;
+  padding: 4px;
+  color: purple;
+}
+
+tr{
+  box-shadow: 2px 4px 2px 4px black;
+}
+td{
+  font-style: italic;
+  border: 2px solid green;
+  margin: 2px;
+  padding: 8px 16px;
+}
